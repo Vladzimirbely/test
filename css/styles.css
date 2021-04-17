@@ -1,0 +1,105 @@
+.circle {
+    position: absolute;
+    left: 293px;
+    top: 10px;
+    width: 97px;
+    height: 97px;
+    border-radius: 50%;
+    background-color: #065e5b;
+  }
+  
+  .banner {
+    position: relative;
+    top: 40px;
+    width: 334px;
+    height: 159px;
+    text-align: center;
+    border-radius: 15px;
+    background-color: #000000;
+    color: #ffffff;
+  }
+  
+  .first-line {
+    position: relative;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  
+  .second-line {
+    position: relative;
+    left: 35px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  
+  .third-line {
+    position: relative;
+    left: 45px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  
+  .shoe {
+    content: url(./../pictures/shoes.png);
+    position: relative;
+    left: 10px;
+    top: -84px;
+    width: 126px;
+    height: 93px;
+  }
+  
+  .icon {
+    content: url(./../pictures/icon.png);
+    position: absolute;
+    top: 104px;
+    left: 212px;
+  }
+  
+  a {
+    position: absolute;
+    top: 128px;
+    left: 235px;
+    width: 97px;
+    height: 48px;
+    text-decoration: 0;
+    color: #996c17;
+  }
+  
+  .banner-text-in-circle {
+    position: absolute;
+    top: -5px;
+    width: 97px;
+    height: 76px;
+    text-align: center;
+    color: #ffffff;
+  }
+  
+  .banner-number {
+    position: absolute;
+    top: -4px;
+    left: 17px;
+    width: 88px;
+    height: 43px;
+    font-size: 34px;
+    color: #fab42d;
+  }
+  
+  .banner-percent {
+    position: absolute;
+    top: -4px;
+    left: 54px;
+    width: 88px;
+    height: 43px;
+    font-size: 34px;
+    color: #ffffff;
+  }
+  
+  .banner-discount {
+    position: absolute;
+    top: 49px;
+    width: 97px;
+    height: 76px;
+    text-align: center;
+    color: #ffffff;
+  }
+  
